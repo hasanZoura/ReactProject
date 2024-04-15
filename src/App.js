@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    <h1>Hello World I'm {owner.name}</h1>
+    <h1>Hello World I'm {owner.name} {owner.lastName}</h1>
     </>
   );
 }
